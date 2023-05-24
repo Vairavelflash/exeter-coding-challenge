@@ -1,0 +1,12 @@
+Time to process:e: 0 minutes 1 seconds 1565 ms
+Memory used: rss:101.9904MB
+
+            heapTotal:53.08416MB
+
+            heapUsed:28.47572MB
+
+            external:18.977564MB
+
+            arrayBuffers:18.539724MB
+
+               
